@@ -5,6 +5,11 @@
 - Delete a file in Internal Storage
 
 
+- Request permissions for External Storage
+- Create a file in External Storage
+- Add meta-data of files in External Storage
+
+
 # 📃 License
 
 Copyright 2021 Aiman Muzafar
