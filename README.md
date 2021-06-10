@@ -8,6 +8,7 @@
 - Request permissions for External Storage
 - Create a file in External Storage
 - Add meta-data of files in External Storage
+- Load files from External Storage
 
 
 # 📃 License
